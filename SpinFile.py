@@ -1,3 +1,4 @@
+#Assignment 4 Martin Cheng 1 person
 import string
 from Spinner import Spinner
 
