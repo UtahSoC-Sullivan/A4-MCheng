@@ -1,4 +1,4 @@
-#Assignment 4 Martin Cheng 1 person
+#Assignment 4 Martin Cheng 1 person https://github.com/UtahSoC-Sullivan/A4-MCheng
 import random
 
 class Spinner:
